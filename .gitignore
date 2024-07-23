@@ -1,0 +1,7 @@
+# DO NOT PUSH THIS API KEYS
+.env
+
+
+# Go modules just annoying
+go.sum
+go.mod
